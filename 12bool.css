@@ -37,6 +37,7 @@
 
 [class*="col-"] {
   float: left;
+  text-align:center;
 }
 
 /* COLONNE */
