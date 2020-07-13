@@ -22,3 +22,6 @@ p{
   border-radius: 180px;
   margin-top: 50px;
 }
+.container.grey{
+  background-color:#f9f9f9;
+}
